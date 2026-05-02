@@ -1,0 +1,36 @@
+year,zone,bedroom_type,avg_rent,data_source,cpi_deflator,avg_rent_real
+2018,Toronto CMA,1 Bedroom,1261.0,CMHC,1.0262,1294.0
+2019,Toronto CMA,1 Bedroom,1361.0,CMHC,1.0,1361.0
+2020,Toronto CMA,1 Bedroom,1421.0,CMHC,0.9836,1398.0
+2021,Toronto CMA,1 Bedroom,1439.0,CMHC,0.9672,1392.0
+2022,Toronto CMA,1 Bedroom,1527.0,CMHC,0.9242,1411.0
+2023,Toronto CMA,1 Bedroom,1691.0,CMHC,0.8693,1470.0
+2024,Toronto CMA,1 Bedroom,1715.0,CMHC,0.8056,1382.0
+2025,Toronto CMA,1 Bedroom,1761.0,CMHC,0.7679,1352.0
+2026,Toronto CMA,1 Bedroom,2200.0,Rentals.ca,0.752,1654.0
+2018,Toronto CMA,2 Bedroom,1467.0,CMHC,1.0262,1505.0
+2019,Toronto CMA,2 Bedroom,1562.0,CMHC,1.0,1562.0
+2020,Toronto CMA,2 Bedroom,1635.0,CMHC,0.9836,1608.0
+2021,Toronto CMA,2 Bedroom,1679.0,CMHC,0.9672,1624.0
+2022,Toronto CMA,2 Bedroom,1779.0,CMHC,0.9242,1644.0
+2023,Toronto CMA,2 Bedroom,1961.0,CMHC,0.8693,1705.0
+2024,Toronto CMA,2 Bedroom,1974.0,CMHC,0.8056,1590.0
+2025,Toronto CMA,2 Bedroom,2046.0,CMHC,0.7679,1571.0
+2026,Toronto CMA,2 Bedroom,2851.0,Rentals.ca,0.752,2144.0
+2018,Toronto CMA,3 Bedroom +,1633.0,CMHC,1.0262,1676.0
+2019,Toronto CMA,3 Bedroom +,1732.0,CMHC,1.0,1732.0
+2020,Toronto CMA,3 Bedroom +,1848.0,CMHC,0.9836,1818.0
+2021,Toronto CMA,3 Bedroom +,1907.0,CMHC,0.9672,1844.0
+2022,Toronto CMA,3 Bedroom +,2041.0,CMHC,0.9242,1886.0
+2023,Toronto CMA,3 Bedroom +,2191.0,CMHC,0.8693,1905.0
+2024,Toronto CMA,3 Bedroom +,2225.0,CMHC,0.8056,1792.0
+2025,Toronto CMA,3 Bedroom +,2317.0,CMHC,0.7679,1779.0
+2026,Toronto CMA,3 Bedroom +,3469.0,Rentals.ca,0.752,2609.0
+2018,Toronto CMA,Bachelor,1080.0,CMHC,1.0262,1108.0
+2019,Toronto CMA,Bachelor,1141.0,CMHC,1.0,1141.0
+2020,Toronto CMA,Bachelor,1204.0,CMHC,0.9836,1184.0
+2021,Toronto CMA,Bachelor,1217.0,CMHC,0.9672,1177.0
+2022,Toronto CMA,Bachelor,1306.0,CMHC,0.9242,1207.0
+2023,Toronto CMA,Bachelor,1414.0,CMHC,0.8693,1229.0
+2024,Toronto CMA,Bachelor,1448.0,CMHC,0.8056,1167.0
+2026,Toronto CMA,Bachelor,1758.0,Rentals.ca,0.752,1322.0

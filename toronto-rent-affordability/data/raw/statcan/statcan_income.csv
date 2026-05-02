@@ -1,0 +1,50 @@
+﻿"Market income, government transfers, total income, income tax and after-tax income by economic family type c 1 2 3 4 5"
+"Frequency: Annual"
+"Table: 11-10-0190-01 (formerly CANSIM 206-0011)"
+"Release date: 2025-05-01"
+"Geography: Canada, Geographical region of Canada, Province or territory, Census metropolitan area"
+""
+""
+
+,"Geography","Toronto, Ontario",,,,,
+"Income concept 6","Economic family type","2018","2019","2020","2021","2022","2023"
+,,"2023 constant dollars",,,,,
+"Median market income","Economic families and persons not in an economic family","77,100","77,500","71,200","76,700","79,400","80,300"
+,"Persons not in an economic family 7","29,300","37,200","28,400","36,200","37,300","37,000"
+"Median government transfers","Economic families and persons not in an economic family","5,400","7,100","19,400","14,100","7,400","6,900"
+,"Persons not in an economic family 7","1,300","F","9,900","F","1,800","1,500"
+"Median total income","Economic families and persons not in an economic family","88,800","90,900","93,700","96,200","93,700","94,100"
+,"Persons not in an economic family 7","39,100","45,400","43,800","48,200","44,700","44,900"
+"Median income tax","Economic families and persons not in an economic family","9,000","9,800","9,300","10,900","10,900","10,600"
+,"Persons not in an economic family 7","2,800","3,600","3,600","4,400","3,700","3,700"
+"Median after-tax income","Economic families and persons not in an economic family","79,000","79,400","83,300","84,500","81,200","82,700"
+,"Persons not in an economic family 7","34,800","39,500","40,200","42,900","40,700","40,600"
+
+Symbol legend:
+E, use with caution
+F, too unreliable to be published
+A, data quality: excellent
+B, data quality: very good
+C, data quality: good
+D, data quality: acceptable
+
+
+"Table Corrections:"
+Date,Note
+"","On February 24, 2020, income taxes and after-tax income estimates for Quebec, Canada and Quebec census metropolitan areas were corrected for 2017."
+
+
+
+Footnotes:
+1,"Source: Centre for Statistics on Housing and Income, Statistics Canada."
+2,"Data quality indicators are based on the coefficient of variation (CV) and number of observations. Quality indicators indicate the following: A - Excellent (CV between 0% and 2%); B - Very good (CV between 2% and 4%); C - Good (CV between 4% and 8%); D - Acceptable (CV between 8% and 16%); E - Use with caution (1976 to 1992: CV greater than or equal to 16%; 1993 and subsequent years: CV between 16% and 33.3% )."
+3,"Estimates are based on data from the following surveys: the Survey of Consumer Finances (SCF) from 1976 to 1992, a combination of the SCF and the Survey of Labour and Income Dynamics (SLID) from 1993 to 1997, the SLID from 1998 to 2011 and the Canadian Income Survey (CIS) beginning in 2012. For more information, see Statistics Canada, 2015, "Revisions to 2006 to 2011 income data", Income Research Paper Series, Cat. no. 75F0002MIE - No. 003. Also, two previous revisions of income data are described in Cotton, Cathy, 2000, "Bridging Two Surveys: An Integrated Series of Income Data from SCF and SLID 1989-1997", Statistics Canada, Cat. No. 75F0002MIE - No. 002, and Lathe, Heather, 2005, "Survey of Labour and Income Dynamics: 2003 Historical Revision", Statistics Canada, Cat. No. 75F0002MIE - No. 009."
+4,"Income estimates from the Survey of Consumer Finances and the Canadian Income Survey for the 2022 reference year and onwards include income for persons aged 15 years and over. Income estimates from the Survey of Labour and Income Dynamics and the Canadian Income Survey for reference years prior to 2022 include income data for persons aged 16 years and over."
+5,"In recent years, the Canadian Income Survey (CIS) has introduced improvements to the methods and sources used to produce income estimates. Beginning with the 2021 reference year, CIS income data were produced from the Administrative Personal Income Masterfile, a comprehensive source of personal income data generated not only from T1 tax returns, but also from associated tax slips. CIS estimates for previous years were produced using T1 tax returns only. Please consult the document <a href=https://www150.statcan.gc.ca/n1/pub/75f0002m/75f0002m2023005-eng.htm rel="external noopener noreferrer" target="_blank">Improvements to the Canadian Income Survey Methodology for the 2021 Reference Year (opens new window)</a> for more information. More improvements were introduced with the 2022 reference year. Foremost among these improvements is a significant increase in the sample size for a large subset of the CIS content. The weighting methodology was also improved and the target population for income data was changed from persons aged 16 years and over to persons aged 15 years and over. Please consult the document <a href=https://www150.statcan.gc.ca/n1/pub/75f0002m/75f0002m2024005-eng.htm rel="external noopener noreferrer" target="_blank">Improvements to the Canadian Income Survey Methodology for the 2022 Reference Year (opens new window)</a> for more information."
+6,"The concept of income covers income received while a resident of Canada or as relevant for income tax purposes in Canada. Market income is the sum of earnings (from employment and net self-employment), net investment income, private retirement income, and the items under other income. It is also called income before taxes and transfers. Total income refers to income from all sources including government transfers and before deduction of federal and provincial income taxes. It may also be called income before tax (but after transfers). After-tax income is total income less income tax. It may also be called income after tax."
+7,"A person not in an economic family is a person living either alone or with others to whom he or she is unrelated, such as roommates or a lodger."
+
+
+
+"How to cite: Statistics Canada. Table 11-10-0190-01  Market income, government transfers, total income, income tax and after-tax income by economic family type"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110019001
